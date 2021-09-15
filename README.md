@@ -6,3 +6,5 @@ Me llamo Miguel Angel y me gustan los videojuego,el basket y el anime
 ![](https://avatars.githubusercontent.com/u/60569015?v=4)
 
 [ARQUITECTURA DE ORDENADORES](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/arquitectura%20de%20ordenadores.md)
+
+[Mecanografia](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Mecanografia.md)
