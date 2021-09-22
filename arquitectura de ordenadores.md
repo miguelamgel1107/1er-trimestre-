@@ -1,22 +1,30 @@
 # ARQUITECTURA DE ORDENADORES
 
+[Sobre Arquitectura De Ordenadores](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
+
 ## Indice
 
 1:[Funcionamiento Basico Del Ordenador](#funcionamiento-basico-del-ordenador)
 
-2:[Esquema Basico De Funcionamiento](#esquema_basico_de_funcionamiento)
+2:[Esquema Basico De Funcionamiento](#esquema-basico-de-funcionamiento)
 
-:[Clase De Binario](#clase-de-binario)
+3:[Procesador](#procesador)
+
+4:[Memoria RAM](#memoria-ram)
+
+5:[Creacion De Un Ordenador](#creacion-de-un-ordenador)
+
+6:[Teclados](#teclados)
+
+7:[Clase De Binario](#clase-de-binario)
 
 
 ## Funcionamiento Basico Del Ordenador
 
 Un ordenador es una máquina electrónica que sirve para procesar información digital. 
 
-
 Información digital es aquella que puede expresarse en términos de 0 y 1, es decir, en 
 el sistema binario de numeración.
-
 
 Si partimos de una información analógica, como una fotografía en papel, es necesario 
 digitalizarla previamente antes de introducirla en el ordenador; en este caso mediante 
@@ -103,9 +111,6 @@ Tipos:
 -Mecanico
 
 -Membrana
-
-[Sobre Arquitectura De Ordenadores](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
-
 
 ## CLASE DE BINARIO
 
