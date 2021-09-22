@@ -1,5 +1,5 @@
 # Bienvenidos al 1er trimestre
-Me llamo Miguel Angel y me gustan los videojuego,el basket y el anime  
+Me llamo Miguel Angel y me gustan los videojuegos de exploracion o de combate,tambien me gusta el anime mayormente de accion o de romance.
 
 [Enlace Al GitHub Del Profesor](https://github.com/d-prieto?tab=overview&from=2021-07-01&to=2021-07-31)
 
