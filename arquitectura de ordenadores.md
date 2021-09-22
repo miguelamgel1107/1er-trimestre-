@@ -2,7 +2,7 @@
 
 ## Ïndice
 
-1[Clase De Binario](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/arquitectura%20de%20ordenadores.md#clase-de-binario)
+1[Clase De Binario](#clase-de-binario)
 
 aqui estan los apuntes sobre arquitectura de ordenadores 
 
