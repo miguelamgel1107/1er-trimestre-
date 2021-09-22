@@ -8,3 +8,5 @@ Me llamo Miguel Angel vengo de Colombia y me gustan los videojuegos de exploraci
 [Arquitectura De Ordenadores](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/arquitectura%20de%20ordenadores.md)
 
 [Mecanografia](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Mecanografia.md)
+
+[Clase De Binario](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/arquitectura%20de%20ordenadores.md#clase-de-binario)
