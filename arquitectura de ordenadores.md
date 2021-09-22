@@ -2,7 +2,9 @@
 
 ## Indice
 
-1[Clase De Binario](#clase-de-binario)
+1:[Clase De Binario](#clase-de-binario)
+
+2:
 
 ## Funcionamiento Basico Del Ordenador
 
@@ -44,6 +46,10 @@ monitor, enviarse a una impresora, almacenarse en el disco duro, etc.
 
 ## Procesador
 
+Como bien indican sus siglas en inglés (Central Processing Unit) es la unidad de procesamiento encargada de interpretar las instrucciones de un hardware haciendo uso de distintas operaciones aritméticas y matemáticas.
+
+![](https://d500.epimg.net/cincodias/imagenes/2016/05/09/lifestyle/1462781416_561321_1462781744_noticia_normal.jpg)
+
 
 ## Memoria RAM
 
@@ -52,34 +58,48 @@ con  los  que  está  trabajando.  Todo  lo  que  hay  en  ella  almacenado  se 
 reiniciamos el ordenador. Físicamente es una placa rectangular de circuito impreso con varios chips, 
 que se acopla a la placa base a través de una ranura específica.
 
-
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Captura%20de%20pantalla%20de%202021-09-22%2013-38-27.png)
 
 ## Creacion De Un Ordenador 
 
-[Caja del ordenador](https://www.pcbox.com/productos/nox330/caja-nox-hummer-quantum-negro)
+[Caja del ordenador](https://www.pcbox.com/productos/nox330/caja-nox-hummer-quantum-negro) 71,05€
 
-[Fuente de alimentacion](https://www.pcbox.com/productos/nox341/fuente-alimentacion-600-w-nox-hummer-alpha-12)
+[Fuente de alimentacion](https://www.pcbox.com/productos/nox341/fuente-alimentacion-600-w-nox-hummer-alpha-12) 50,09€
 
-[Placa base](https://www.pcbox.com/productos/ask5207/placa-intel-asus-prime-h310m-k-r20-intel-h310)
+[Placa base](https://www.pcbox.com/productos/ask5207/placa-intel-asus-prime-h310m-k-r20-intel-h310)  61,65€
 
-[Procesador](https://www.pcbox.com/productos/int1034/procesador-intel-core-i5-9600kf-37-lga-1151-s)
+[Procesador](https://www.pcbox.com/productos/int1034/procesador-intel-core-i5-9600kf-37-lga-1151-s) 186,35€
 
-[Refrigeracion CPU](https://www.pcbox.com/productos/art172/kit-refrigerador-liquido-arctic-intelamd-free)
+[Refrigeracion CPU](https://www.pcbox.com/productos/art172/kit-refrigerador-liquido-arctic-intelamd-free) 106,67€
 
-[Memoria RAM](https://www.pcbox.com/productos/crc278/memoria-16-gb-1-x-16-ddr4-2400-mhz-crucial-ct)
+[Memoria RAM](https://www.pcbox.com/productos/crc278/memoria-16-gb-1-x-16-ddr4-2400-mhz-crucial-ct) 72,04€
 
-[Disco duro](https://www.pcbox.com/productos/kgn2225/disco-duro-ssd-480-gb-25-kingston-a400-500-mb)
+[Disco duro](https://www.pcbox.com/productos/kgn2225/disco-duro-ssd-480-gb-25-kingston-a400-500-mb) 47,01€
 
-[Tarjeta grafica](https://www.pcbox.com/productos/ask4755/tarjeta-grafica-2-gb-asus-nvidia-geforce-gt-1)
+[Tarjeta grafica](https://www.pcbox.com/productos/ask4755/tarjeta-grafica-2-gb-asus-nvidia-geforce-gt-1) 96,99€
 
-[Lestor multitarjeta](https://www.pcbox.com/productos/too24/lector-multitarjeta-interno-negro-tooq-202b-l)
+[Lestor multitarjeta](https://www.pcbox.com/productos/too24/lector-multitarjeta-interno-negro-tooq-202b-l) 10,87€
 
-[Monitor](https://www.pcbox.com/productos/lg1825/monitor-215-lg-22mk400h-b-led-1920x1080-fress)
+[Monitor](https://www.pcbox.com/productos/lg1825/monitor-215-lg-22mk400h-b-led-1920x1080-fress) 126,92€
 
-[Teclados,raton,auricurales y alfombrilla](https://www.pcbox.com/productos/coo465/pack-teclado-raton-auriculares-alfombrilla-co)
+[Teclados,raton,auricurales y alfombrilla](https://www.pcbox.com/productos/coo465/pack-teclado-raton-auriculares-alfombrilla-co) 31,33€
 
-[Sistema operativo](https://www.pcbox.com/productos/mic1309/windows-10-home-3264-bits-dsp-licenciadvd)
+[Sistema operativo](https://www.pcbox.com/productos/mic1309/windows-10-home-3264-bits-dsp-licenciadvd) 102,85€
 
+Total:963,82€
+
+
+## Teclados 
+
+Son dispositivos de entrada activados por pulsacion de teclas incorporan un circuito integrado que se comunica con el PC.
+
+Su conexion es USB y antiguamente PS/2.
+
+Tipos:
+
+-Mecanico
+
+-Membrana
 
 [Sobre Arquitectura De Ordenadores](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
