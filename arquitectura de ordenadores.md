@@ -2,7 +2,9 @@
 
 ## Indice
 
-1:[Funcionamiento Basico Del Ordenador](#Funcionamiento_Basico_Del_Ordenador)
+1:[Funcionamiento Basico Del Ordenador](#funcionamiento-basico-del-ordenador)
+
+2:[Esquema Basico De Funcionamiento](#esquema_basico_de_funcionamiento)
 
 :[Clase De Binario](#clase-de-binario)
 
