@@ -21,6 +21,37 @@ un escáner.
 
 El funcionamiento básico de un ordenador puede expresarse mediante el siguiente esquema:
 
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Captura%20de%20pantalla%20de%202021-09-22%2013-33-13.png)
+
+1. Debemos  suministrar  unos  datos  de  entrada  al  ordenador.  Estos  datos  deben  estar  en 
+formato digital y podemos suministrárselos de varias formas:  
+* Desde dispositivos de entrada, como el ratón, el teclado, o un escáner.  
+* Desde unidades de almacenamiento de datos, como un disco duro, una unidad óptica (CD-
+ROM o DVD), una memoria flash, etc.  
+* A través de una conexión de red, como una red local o Internet.  
+2. El ordenador procesa dichos datos de entrada de acuerdo con las instrucciones del programa 
+que  se  esté  ejecutando  en  ese  momento.    El  procesamiento  de  datos  puede  consistir  en 
+realizar  cálculos  con  ellos,  o  en  transferirlos  de  un  lugar  a  otro.  Esta  labor  la  realiza, 
+fundamentalmente, el microprocesador, que actúa como Unidad Central de Procesamiento 
+(CPU). Pero también intervienen:  
+* La memoria RAM, almacenando temporalmente los datos y las instrucciones.  
+* La tarjeta gráfica, que incluye su propio procesador y su propia memoria RAM.  
+* El chipset, que controla el flujo de datos entre el microprocesador, la tarjeta gráfica y el resto 
+de los dispositivos (monitor, disco duro, etc) 
+3. Como consecuencia del procesamiento de los datos por parte del ordenador, éste obtiene un 
+resultado,  que  llamamos  datos  de  salida.  Estos  datos  pueden  mostrarse  en  la  pantalla  del 
+monitor, enviarse a una impresora, almacenarse en el disco duro, etc. 
+
+## Procesador
+
+
+## Memoria RAM
+
+a  memoria  RAM  es  donde  el  ordenador  almacena  temporalmente  los  datos  y  los  programas 
+con  los  que  está  trabajando.  Todo  lo  que  hay  en  ella  almacenado  se  borra  cuando  apagamos  o 
+reiniciamos el ordenador. Físicamente es una placa rectangular de circuito impreso con varios chips, 
+que se acopla a la placa base a través de una ranura específica.
+
 
 
 ## Creacion De Un Ordenador 
