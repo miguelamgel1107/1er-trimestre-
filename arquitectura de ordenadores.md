@@ -217,3 +217,18 @@ Velocidad de memoria del reloj:	  6008 MHz
 Número de puertos HDMI:  	1
 
 Cantidad de puertos DVI-D:   1
+
+## Discos Duros 
+
+### ¿Que son?
+
+Es donde vamos a guardar de forma permanente la informacion 
+
+### Formateo y sectores
+
+Tengo un disco duro magnético de 100Gbytes.
+¿Cuántos sectores tiene si cada sector es de 512bytes?
+
+100 GB=102 400 MB=104 857 600 KB=107 374 182 400 Bytes / 512 Bytes=209 715 200 Sectores
+
+Aproximadamnete209 millones de sectores 
