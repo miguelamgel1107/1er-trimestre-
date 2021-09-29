@@ -18,6 +18,7 @@
 
 7:[Clase De Binario](#clase-de-binario)
 
+8:[Tarjeta Grafica]()
 
 ## Funcionamiento Basico Del Ordenador
 
