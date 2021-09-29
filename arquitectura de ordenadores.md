@@ -174,3 +174,45 @@ a=0010100
 
 Unicode=hasta 100 000 caracteres 
 
+## Tarjeta Grafica
+
+### ¿Que son?
+
+Una tarjeta gráfica o tarjeta de video es una tarjeta de expansión de la tarjeta madre o motherboard del computador que se encarga de procesar los datos provenientes del procesador y transformarlos en información comprensible y representable en el dispositivo de salida.
+
+### ¿Que es la GPU?
+
+El procesador gráfico. Denominado GPU (Unidad de Procesamiento Gráfico) 
+Es el encargado de procesar toda la información gráfica, realizando los cálculos necesarios 
+para obtener la imagen final. Igual que el procesador del ordenador, el procesador de la TG 
+trabaja a una determinada velocidad o frecuencia de reloj, expresada en megahercios (de 
+200  a  500  MHz).  Para  evitar  su  deterioro  por  calentamiento,  deben  ser  refrigerados 
+mediante disipadores térmicos, a los que se añade, generalmente, un pequeño ventilador.
+
+### Caracteristicas de mi [tarjeta grafica](https://www.pcbox.com/productos/ask4755/tarjeta-grafica-2-gb-asus)
+
+-Procesador:
+
+Familia de procesadores de gráficos:  	NVIDIA
+
+Procesador gráfico:	  GeForce GT 1030
+
+Frecuencia del procesador:   	1252 MHz
+
+Aumento de la velocidad de reloj del procesador:	  1506 MHz
+
+FireStream:	  No
+
+-Memoria:
+
+Gráficos discretos memoria del adaptador:  	2 GB
+
+Ancho de datos:	  64 bit
+
+Velocidad de memoria del reloj:	  6008 MHz
+
+-Puertos e Interfaces:	
+
+Número de puertos HDMI:  	1
+
+Cantidad de puertos DVI-D:   1
