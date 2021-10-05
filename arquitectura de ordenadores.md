@@ -235,7 +235,21 @@ Aproximadamnete209 millones de sectores
 
 ### Caracteristicas de mi disco duro 
 
+[disco duro 1](https://www.kingston.com/spain/es/ssd/dc450-data-center-solid-state-drive)
 
+[disco duro 2](https://www.pcbox.com/productos/kgn2225/disco-duro-ssd-480-gb)
+
+-Capacidad:480 GB
+
+-Precio:47,53 €
+
+-Interfaz:Serial ATA III
+
+-Tamaño del búfer:No aplica
+
+-Velocidad de giro:No aplica
+
+-Tipo:SSD
 
 ## Internet y Redes
 
