@@ -35,6 +35,8 @@ La fuente de alimentacion es la que contrala la energia que entra al ordenador t
 Es  un  dispositivo  de  almacenamiento  permanente  de  tipo  magnético,  donde  se  guardan  los 
 archivos del sistema operativo, los programas y los archivos del propio usuario.
 
+Este disco duro tiene 75GB de capacidady es un dico duro magnético. 
+
 ![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Captura%20de%20pantalla%20de%202021-10-05%2011-55-35.png)
 
 ### Placa base 
@@ -47,12 +49,12 @@ impreso rectangular, de dimensiones un poco mayores a un papel de tamaño A4.
 
 -¿Como es el ordenador que tengo que desmontar?
 
-El pc que tengo que montar es del 98 y tiene piezas muy viejas, tiene buses los cuales ahora no se utilizan
+El pc que tengo que montar es un poco antiguo y tiene piezas muy viejas, tiene buses los cuales ahora no se utilizan.
 
 -¿Tiene alguna pieza reutilizable? 
 
-La placa base podra servir.
+La placa base podria servir.
 
 ¿De qué año es?
 
-Es del año 1998.
+El disco duro es de 1998 por lo tanto podemos deducir que el ordenador es aproximadamente del 1998.
