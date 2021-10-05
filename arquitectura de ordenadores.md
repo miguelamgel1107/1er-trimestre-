@@ -251,6 +251,10 @@ Aproximadamnete209 millones de sectores
 
 -Tipo:SSD
 
+### Reflexión sobre precios
+
+
+
 ## Internet y Redes
 
 ### Redes locales LAN
