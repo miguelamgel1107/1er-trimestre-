@@ -232,3 +232,21 @@ Tengo un disco duro magnético de 100Gbytes.
 100 GB=102 400 MB=104 857 600 KB=107 374 182 400 Bytes / 512 Bytes=209 715 200 Sectores
 
 Aproximadamnete209 millones de sectores 
+
+### Caracteristicas de mi disco duro 
+
+
+
+## Internet y Redes
+
+### Redes locales LAN
+
+LAN:Local Area Netunk
+
+Protocolo TCP/IP
+
+DHCP:Asignar de forma autamática las IPs de los ordenadores conectados.
+
+Ataque DDOS:Pedir alavez demasiadas cosas a un mismo servidor.
+
+TCP/IP
