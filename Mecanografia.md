@@ -16,3 +16,6 @@ Use [AgileFingers](https://agilefingers.com/) para practicar un poco la mecanogr
 ![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Captura%20de%20pantalla%20de%202021-10-05%2012-31-13.png)
 
 Use [AgileFingers](https://agilefingers.com/) para practicar un poco la mecanografia.
+
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Captura%20de%20pantalla%20de%202021-10-05%2013-19-55.png)
