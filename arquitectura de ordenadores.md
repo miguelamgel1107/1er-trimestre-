@@ -251,9 +251,6 @@ Aproximadamnete209 millones de sectores
 
 -Tipo:SSD
 
-### Reflexión sobre precios
-
-
 
 ## Internet y Redes
 
@@ -268,3 +265,76 @@ DHCP:Asignar de forma autamática las IPs de los ordenadores conectados.
 Ataque DDOS:Pedir alavez demasiadas cosas a un mismo servidor.
 
 TCP/IP
+
+
+## Buses: autopistas para los datos
+
+Velocidad=Frecuencia . Ancho de banda
+
+Velocidad:Bits/s   
+Frecuencia:Hz    
+Ancho de banda:Bits
+
+los buses de datos tienen una determinada capacidad de transmisión de información. Esta capacidad se mide en informacion/s.
+Por ejemplo:Bits/s, KB/s, MB/s, GB/s.
+
+Para pasar de una unidad a otra tendremos que multiplicar o dividir.
+
+Para pasar de bit(b) a byte(B) dividimos entre 8, que es el número de bits en un byte.
+
+Para pasar de byte a KiloByte (KB) dividimos entre 1024, que es el número de bytes en un KB.
+
+Para pasar de KiloByte a Megabyte (MB) dividimos entre 1024, que es el número de bytes en una MB.
+
+Para pasar de MegaByte a GigaByte (GB) dividimos entre 1024, que es el número de bytes en una GB.
+
+Si hubiera que pasar de bit a MB, se unen varias divisiones, en este caso: Primero dividimos entre 8 y luego 2 veces entre 1024.
+
+Sipasamos de unidades grandes a chicas, multiplicaremos en ves de dividir.
+
+La velocidad de transmision es igual a la frecuencia de transmision del bus multiplicado por el numero de bits por paquete. El número de bits por paquete depende de cuantas conexiones tenga.
+
+
+### Unidades de la frecuencia:
+
+La frecuencia se mide en Hertz, herzios o segundos-1 (1/segundos).
+
+1 HZ representa que algo ocurre 1 vez por segundo.
+
+0,1 HZ representa que algo ocurre 1 vez cada 10 segundos.
+
+5 HZ representa que algo ocurre 5 veces por segundo.
+
+En informatica, estas frecuencias pueden referirse habitualmente a:
+-Frecuencias de reloj para transmitir datos (MHZ-GHZ)
+
+-Frecuencias de sonido (HZ-KHZ)
+
+Para cambiar de unidad, se utiliza el SI, es decir, múltiplos y submúltiplos en base decimal. Es decir: 1MHZ=1 000 000 HZ, 1KHZ=1000 HZ.
+
+
+## Sistema Operativo
+
+-Windows 10
+
+-Linux (ubuntu)
+
+-IOS
+
+-Android
+
+-Mac OS
+
+### Funciones básicas
+
+-Hablar con el Hardware.
+
+-Establecer conexiones.
+
+-Interfaz básica de usuario.
+
+-Acceso básico de archivos.
+
+-Acceder y administrar discos.
+
+-Permitir instalar otros progamas.
