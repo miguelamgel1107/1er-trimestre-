@@ -74,3 +74,29 @@ Esta es la imagen rásterizada original.
 ![](https://raw.githubusercontent.com/Tabrih/1er-Trimestre/main/El%20Cid.jpg)
 
 [Fuente](https://www.museodelprado.es/coleccion/obra-de-arte/el-cid/19984271-9cb6-476d-8655-f012e1fec1bf)
+
+Abrimos Inkscape
+
+Lo primero es decidir si el programa hará una o más pasadas. Con una única pasada SIEMPRE obtendremos una imagen en blanco y negro(Que podremos colorear después).
+
+Una única pasada tenemos:
+
+  * Corte de luminosidad -> Junta todos los píxeles más oscuras que un umbral.
+
+  * Detección de bordes -> Revisa el contrate entre píxeles
+
+Varias pasadas nos permite hacer una imagen vectorial más compleja, con varios grises o colores. Esto necesita más capacidad de proceso.
+
+[León1.svg]
+
+Después de importar el león, vamos a ajustr el lienzo, para ello vamos a propiedades de documento --> En tamaño, vamos a ajustar página o contenido selecionamos la imagen y pulsamos el botón Ajustar página a contenido o selección
+
+  * Vectorizamos el león con las siguientes características
+      * Múltiples pasadas - Colores - 8 pasadas
+
+  * Borramos el original
+
+  * Guardamos como León 1.svg
+
+  * Subimos al Github
+
