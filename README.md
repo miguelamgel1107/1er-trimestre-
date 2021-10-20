@@ -12,3 +12,5 @@ Hola,mi nombre es Miguel Angel vengo de Colombia tengo 16 años y me gustan los 
 [Clase De Binario](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/arquitectura%20de%20ordenadores.md#clase-de-binario)
 
 [Montaje De Ordenador](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/montaje%20ordenadores.md)
+
+[Inkscape](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/inkscape.md)
