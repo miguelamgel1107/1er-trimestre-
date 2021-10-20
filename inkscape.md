@@ -1,8 +1,8 @@
-Imágenes
+# Imágenes
 
 Las imágenes se guardan digitalmente de dos maneras:
 
-   Por un lado (Ráster) podemos hacer una matriz de puntos (Mapa de bits) y a cada punto le asignamos un color (Píxel)
+  * Por un lado (Ráster) podemos hacer una matriz de puntos (Mapa de bits) y a cada punto le asignamos un color (Píxel)
 
 Tres colores primarios aditivos : Rojo, Verde y Marrón o mejor conocido como RGB(Red,Green,Brown)
 
@@ -34,28 +34,30 @@ Las líneas horizontales suelen ser :
 
 -> Un archivo puede expresar su resolución dicendo A x B
 
-   Por ejemplo una imagen de 350 x250 píxeles. Se utiliza cuando hablamos de archivos concretos.
+  * Por ejemplo una imagen de 350 x250 píxeles. Se utiliza cuando hablamos de archivos concretos.
 
 NO CONFUNDIR con la resolución de impresión, medida en puntos por pulgad (ppp) o (dpi) dots per inch.
 
-   Espacios de color
+  * Espacios de color
 
-   Sistemas para detallar los colores :
+  * Sistemas para detallar los colores :
 
-   RGB (Red, Green, Blue) para pantallas
+  * RGB (Red, Green, Blue) para pantallas
 
-   CMYK (Cyan, Magenta, Yellow, Black) para imprimir
+  * CMYK (Cyan, Magenta, Yellow, Black) para imprimir
 
-   Colores indexados -> Toma hasta 256 colores y se usan solo esos --> GIFs
-   
-   Canal (como los 3 canales de RGB) de transparencia. Este canal de llama alfa (α). Los PNG pueden tenerlos, los GIFs o los JPG no.
+  * Colores indexados -> Toma hasta 256 colores y se usan solo esos --> GIFs
 
-FORMATOS COMUNES
+  * Canal (como los 3 canales de RGB) de transparencia. Este canal de llama alfa (α). Los PNG pueden tenerlos, los GIFs o los JPG no.
 
-   JPG ( y JPEG) --> Tiene congresión
 
-  
+## FORMATOS COMUNES
+
+ * JPG ( y JPEG) --> Tiene congresión
+
 ![](https://sm.ign.com/t/ign_latam/news/c/crunchyrol/crunchyrolls-anime-awards-winners-announced_bnmy.1280.jpg)
+
+ * GIF --> Color indexado. Se puede animar
  
 ![](https://www.educaciontrespuntocero.com/wp-content/uploads/2019/06/homer.gif) 
 
