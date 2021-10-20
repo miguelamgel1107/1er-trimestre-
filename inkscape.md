@@ -17,6 +17,8 @@ Un mapa de bits tiene un tamaño concreto de A x B.
   
   240p (240 pixeles de alto)  
   
-
-  
+![](https://sm.ign.com/t/ign_latam/news/c/crunchyrol/crunchyrolls-anime-awards-winners-announced_bnmy.1280.jpg)
+ 
 ![](https://www.educaciontrespuntocero.com/wp-content/uploads/2019/06/homer.gif) 
+
+
