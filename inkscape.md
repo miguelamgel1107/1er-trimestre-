@@ -21,4 +21,8 @@ Un mapa de bits tiene un tamaño concreto de A x B.
  
 ![](https://www.educaciontrespuntocero.com/wp-content/uploads/2019/06/homer.gif) 
 
+![]()
+
+## Imagenes vectoriales 
+Se define la imagen como un conjunto de formas (líneas, puntos, etc) cada una de estas formas esta definida matematicamente
 
