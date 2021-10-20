@@ -63,10 +63,9 @@ NO CONFUNDIR con la resolución de impresión, medida en puntos por pulgad (ppp)
 
  * PNG --> No tiene compresión. Admite alfa
 
-![]()
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/5853bc61ec0c270fc2f62de5.png)
 
-
-  * TIFF --> Sin compresión
+ * TIFF --> Sin compresión
 
 Otros particulures:
 
@@ -75,7 +74,8 @@ Otros particulures:
   * RAW (Foto sin comprimir)
 
 Imagen Ráster está hecha de píxeles y tiene formatos los .JPG .GIF .PNG.
-IMÁGENES VECTORIALES
+
+# IMÁGENES VECTORIALES
 
 Se define la imagen como un conjunto de formas (Líneas, Puntos,etc) Cada una de estas formas está definida matemáticamente.
 
@@ -86,7 +86,7 @@ Forma = Círculo
 Radio = 30 píxeles
 
 Borde = 1 ancho, color rosa
-FORMATOS
+## FORMATOS
 
   * .svg (Scalable vector graphic)
 
