@@ -163,3 +163,8 @@ Por ultimo hice otra con un umbral de luminosidad de 0,250 y la hice de color ro
 -León 3:
 
 ![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/dibujo3.svg)
+
+
+-Mi imagen:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/dibujo-spider_man1.svg)
