@@ -61,10 +61,56 @@ NO CONFUNDIR con la resolución de impresión, medida en puntos por pulgad (ppp)
  
 ![](https://www.educaciontrespuntocero.com/wp-content/uploads/2019/06/homer.gif) 
 
+ * PNG --> No tiene compresión. Admite alfa
+
 ![]()
 
-## Imagenes vectoriales 
-Se define la imagen como un conjunto de formas (líneas, puntos, etc) cada una de estas formas esta definida matematicamente
+
+  * TIFF --> Sin compresión
+
+Otros particulures:
+
+  * PSO
+
+  * RAW (Foto sin comprimir)
+
+Imagen Ráster está hecha de píxeles y tiene formatos los .JPG .GIF .PNG.
+IMÁGENES VECTORIALES
+
+Se define la imagen como un conjunto de formas (Líneas, Puntos,etc) Cada una de estas formas está definida matemáticamente.
+
+Por ejemplo un círculo se define como un relleno.
+
+Forma = Círculo
+
+Radio = 30 píxeles
+
+Borde = 1 ancho, color rosa
+FORMATOS
+
+  * .svg (Scalable vector graphic)
+
+  * .eps
+
+Específicos
+
+  * DWG (Autocad)
+
+  * DXF (AutoCad)
+
+  * 3DM (Rhinoceros)
+
+  * AI (Ilustrator)
+
+Formato mezcla Ráster y vectorial
+
+  * PDF = Portable Document Format
+
+Rasterizamos una imagen, cuando pasamos de una imagen vectorial a una imagen ráster (mapa de bits).
+
+Vectorizar es pasar de un mapa de bits (Imagen Ráster) a formato vectorial.
+
+Las imágenes vectoriales están formadas de formas.
 
 ### Ejercicio vectorización
 Vamos a tomar la imagen del cuadro del león de Rosa Bonheur.
@@ -87,8 +133,6 @@ Una única pasada tenemos:
 
 Varias pasadas nos permite hacer una imagen vectorial más compleja, con varios grises o colores. Esto necesita más capacidad de proceso.
 
-[León1.svg]
-
 Después de importar el león, vamos a ajustr el lienzo, para ello vamos a propiedades de documento --> En tamaño, vamos a ajustar página o contenido selecionamos la imagen y pulsamos el botón Ajustar página a contenido o selección
 
   * Vectorizamos el león con las siguientes características
@@ -100,3 +144,22 @@ Después de importar el león, vamos a ajustr el lienzo, para ello vamos a propi
 
   * Subimos al Github
 
+-León 1:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/dibujo1.svg)
+
+-León 2:
+
+Este león lo hice con la opcion de vectorizar mapa de bits, con pasada simple y corte de luminosidad.
+
+Primero hice una con umbral de luminosidad de 0,590 y la hice de color amarillo y la puse de fondo.
+
+luego hice otra pero con un umbral de luminosidad de 0,450 y la hice de color azul marino y la puse de segunda.
+
+Por ultimo hice otra con un umbral de luminosidad de 0,250 y la hice de color rojo un poco claro y la puse encima de todas.
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/dibujo2.svg)
+
+-León 3:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/dibujo3.svg)
