@@ -65,7 +65,7 @@ Como bien indican sus siglas en inglés (Central Processing Unit) es la unidad d
 
 ## Memoria RAM
 
-a  memoria  RAM  es  donde  el  ordenador  almacena  temporalmente  los  datos  y  los  programas 
+La  memoria  RAM  es  donde  el  ordenador  almacena  temporalmente  los  datos  y  los  programas 
 con  los  que  está  trabajando.  Todo  lo  que  hay  en  ella  almacenado  se  borra  cuando  apagamos  o 
 reiniciamos el ordenador. Físicamente es una placa rectangular de circuito impreso con varios chips, 
 que se acopla a la placa base a través de una ranura específica.
