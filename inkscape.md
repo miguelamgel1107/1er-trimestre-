@@ -193,3 +193,35 @@ Leon 04: Este leon es de 800 de ancho por 988 de altura.
 Leon 05: Este leon es de 1500 de ancho por 1852 de altura.
 
 ![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Leon%2005.png)
+
+Mi imgane de spider man con 16 de ancho por 13 de altura:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/spider_man%2001.png)
+
+Mi imgane de spider man con 160 de ancho por 129 de altura:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/spider_man%2002.png)
+
+Mi imgane de spider man con 350 de ancho por 283 de altura:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/dibujo3.svg)
+
+## Propiedades de las formas
+
+  * Leon1.svg
+
+  * Desagruparlo -> Varias formas -> Cambiar las propiedades de las formas
+
+3 ELEMENTOS
+
+  * Relleno "Pincel"
+
+  * Trazo (Línea)
+
+  * Estilo de trazo(Línea)
+
+  * León.png
+
+
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Leon%20001.png)
