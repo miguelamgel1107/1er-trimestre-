@@ -265,3 +265,28 @@ Alineación horizontal y vertical:
 Alineación con un solo objeto:
 
 ![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Alineacion%20con%20un%20solo%20objeto.png)
+
+## Operaciónbooleanaen Inkscape
+
+Diferencia con objetos:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/diferencia%20con%20objetos.png)
+
+Para logar esto primero hice un rectangulo y puse un triangulo a cada lado de este, luego le reste los triagunlos al rectangulo como se puede ver a continuacion:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2013-05-54.png)
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2013-06-57.png)
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2013-07-05.png)
+
+Luego duplique el rectangulo y posicione los dos rectangulos sobre el circulo y reste los rectangulos del circulo.
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2013-07-30.png)
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2013-07-44.png)
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2013-07-55.png)
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2013-08-04.png)
+
