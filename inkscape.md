@@ -204,7 +204,7 @@ Mi imgane de spider man con 160 de ancho por 129 de altura:
 
 Mi imgane de spider man con 350 de ancho por 283 de altura:
 
-![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/dibujo3.svg)
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/spider_man%2003.png)
 
 ## Propiedades de las formas
 
@@ -223,5 +223,18 @@ Mi imgane de spider man con 350 de ancho por 283 de altura:
   * León.png
 
 
+Leon con relleno modificado:
 
 ![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Leon%20001.png)
+
+Leon con lineas modificadas:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Leon%20002.png)
+
+Leon con tipo de linea modificada:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Leon%20003.png)
+
+Leon mix:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Leon%20mix.png)
