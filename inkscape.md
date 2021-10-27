@@ -222,6 +222,22 @@ Mi imgane de spider man con 350 de ancho por 283 de altura:
 
   * León.png
 
+RGBA
+
+Mezcla de los colores primarios aditivos : Rojo (Red), Verde (Green) y Azul (Blue).
+
+HSL (Hue,Saturation,Light)
+
+Tono/Saturación
+
+Este sistema mezcla lo siguiente:
+
+  * Un de tono de color en la rueda cromática ( Hue, tono de color en inglés)
+  * Un canal de nivel de saturación cromática que va de gris al color (Saturation)
+  * Un canal de luminosidad de color (Light)
+  * Un canal de transparencia(Alfa)
+
+
 
 Leon con relleno modificado:
 
@@ -238,3 +254,4 @@ Leon con tipo de linea modificada:
 Leon mix:
 
 ![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Leon%20mix.png)
+
