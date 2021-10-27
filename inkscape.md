@@ -255,3 +255,13 @@ Leon mix:
 
 ![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Leon%20mix.png)
 
+
+### Ejercicio de alineación
+
+Alineación horizontal y vertical:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Alineacion%20horizontal%20y%20vertical.png)
+
+Alineación con un solo objeto:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Alineacion%20con%20un%20solo%20objeto.png)
