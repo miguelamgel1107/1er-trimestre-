@@ -63,7 +63,7 @@ NO CONFUNDIR con la resolución de impresión, medida en puntos por pulgad (ppp)
 
  * PNG --> No tiene compresión. Admite alfa
 
-![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/5853bc61ec0c270fc2f62de5.png)
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/bitmap.png)
 
  * TIFF --> Sin compresión
 
@@ -117,7 +117,7 @@ Vamos a tomar la imagen del cuadro del león de Rosa Bonheur.
 
 Esta es la imagen rásterizada original.
 
-![](https://raw.githubusercontent.com/Tabrih/1er-Trimestre/main/El%20Cid.jpg)
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/image17.png)
 
 [Fuente](https://www.museodelprado.es/coleccion/obra-de-arte/el-cid/19984271-9cb6-476d-8655-f012e1fec1bf)
 
@@ -168,3 +168,28 @@ Por ultimo hice otra con un umbral de luminosidad de 0,250 y la hice de color ro
 -Mi imagen:
 
 ![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/dibujo-spider_man1.svg)
+
+
+## Rasterizar
+
+Vamos a resterizar al leon 1
+
+Leon 01: Este leon es de 16 de ancho por 20 de altura.
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Leon%2001.png)
+
+Leon 02: Este leon es de 160 de ancho por 198 de altura.
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Leon%2002.png)
+
+Leon 03: Este leon es de 350 de ancho por 432 de altura.
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Leon%2003.png)
+
+Leon 04: Este leon es de 800 de ancho por 988 de altura.
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Leon%2004.png)
+
+Leon 05: Este leon es de 1500 de ancho por 1852 de altura.
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Leon%2005.png)
