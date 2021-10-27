@@ -290,3 +290,11 @@ Luego duplique el rectangulo y posicione los dos rectangulos sobre el circulo y 
 
 ![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2013-08-04.png)
 
+
+Logo de carrefour:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/imagnes/logo%20carrefour.png)
+
+Logo Nike:
+
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/imagnes/logo%20nike.png)
