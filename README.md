@@ -5,6 +5,8 @@ Hola,mi nombre es Miguel Angel vengo de Colombia tengo 17 años y me gustan los 
 
 ![](https://avatars.githubusercontent.com/u/60569015?v=4)
 
+## Índice
+
 [Arquitectura De Ordenadores](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/arquitectura%20de%20ordenadores.md)
 
 [Mecanografia](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/Mecanografia.md)
