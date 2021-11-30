@@ -165,6 +165,8 @@ Hexadecimal
 
 ### Convertir Numeros En Letras
 
+![](https://github.com/miguelamgel1107/1er-trimestre-/blob/main/letrasbinario.jpg)
+
 Existen códigos que convierten números en letras 
 
 ASCII (antiguo) tiene 255 valores y caracteres latinos (no tiene ñ)
